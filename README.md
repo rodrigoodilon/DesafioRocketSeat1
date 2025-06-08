@@ -38,7 +38,7 @@ Para rodar o projeto na sua máquina, siga os passos abaixo:
 
 
 ## 📸 Demonstração
-![Exemplo do programa rodando](./exemplo_console_.png)
+![Exemplo do programa rodando](./exemplo_console.png)
 
 ## 👨‍💻 Autor
 
