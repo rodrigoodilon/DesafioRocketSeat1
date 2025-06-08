@@ -17,9 +17,24 @@ Este repositório contém a minha solução para o desafio prático da Rocketsea
 
 Para rodar o projeto na sua máquina, siga os passos abaixo:
 
-1. Clone o repositório:
+1. **Clone o repositório:**
+
    ```bash
    git clone https://github.com/rodrigoodilon/DesafioRocketSeat1.git
+   ```
+
+2. **Acesse a pasta do projeto:**
+
+   ```bash
+   cd DesafioRocketSeat1
+   ```
+
+3. **Abra o projeto no Visual Studio**
+
+4. **Execute o projeto:**
+   - Pressione `Ctrl + F5` ou clique em **Start (Iniciar sem depuração)**
+
+> 💡 Certifique-se de que o .NET SDK está instalado em sua máquina.
 
 
 ## 📸 Demonstração
